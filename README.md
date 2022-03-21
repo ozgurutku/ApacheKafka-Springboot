@@ -1,4 +1,4 @@
-# ApacheKafka-Springboot-simple-app
+# ApacheKafka-Springboot
 Simple kafka application on spring boot. It consists of 1 topic and 4 consumer groups.
 <br>
 https://reflectoring.io/spring-boot-kafka/ You can find detailed information about using Kafka in Springboot from this site.
